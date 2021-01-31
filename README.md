@@ -152,7 +152,7 @@ There you go! Don't hesitate to play with this repository and move some code aro
 ## Installation
 
 ```sh
-$ git clone git@github.com:bloodyowl/2020-10-types-talk.git
+$ git clone git@github.com:bloodyowl/2021-01-types-talk.git
 $ cd 2021-01-types-talk
 $ yarn
 ```
