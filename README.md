@@ -39,7 +39,7 @@ The user profile should:
 2. Show nothing when loading
 3. Show "No result was received" when the API returned an empty profile
 4. Show "An error occured" when the API errored
-4. Show the receive avatar and email when successful
+4. Show the received avatar and email when successful
 
 ### Naive JavaScript
 
