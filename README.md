@@ -4,7 +4,7 @@
 
 ## First, get the talk slides
 
-https://speakerdeck.com/bloodyowl/simplify-your-ui-management-with-algebraic-data-types
+https://speakerdeck.com/bloodyowl/simplify-your-ui-management-with-algebraic-data-types-9dfb731e-7c99-4269-8301-0b726f44a5ad
 
 ## What to look for
 
